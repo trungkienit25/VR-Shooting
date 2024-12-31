@@ -84,4 +84,5 @@
 ## Liên hệ và hỗ trợ
 Nếu gặp bất kỳ vấn đề nào trong quá trình cài đặt hoặc phát triển dự án, vui lòng liên hệ qua:
 - Email: kiennguyen.kris@gmail.com, kien.nt226110@sis.hust.edu.vn.
+- Email thành viên hợp tác: minh.tq226092@sis.hust.edu.vn, minhfananime@gmail.com.
 
